@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Tüm kır evi",
+    "title": "Exceptional property private beach",
+    "imgSrc": "place1.png",
+    "beds": 6,
+    "price": 456,
+    "isSuper": false,
+    "rating": 4.74,
+    "reviews": 96
+  },
+  {
+    "type": "Tüm misafirhane",
+    "title": "Private Pool House with Amazing Views!",
+    "imgSrc": "place2.png",
+    "beds": 2,
+    "price": 865,
+    "isSuper": true,
+    "rating": 4.96,
+    "reviews": 182
+  },
+  {
+    "type": "Tüm villa",
+    "title": "Luxury Gold Coast Hinterland Villa",
+    "imgSrc": "place3.png",
+    "beds": 6,
+    "price": 952,
+    "isSuper": true,
+    "rating": 4.89,
+    "reviews": 232
+  },
+  {
+    "type": "Ağaç evi",
+    "title": "Private Pool House with Amazing Views!",
+    "imgSrc": "place4.png",
+    "beds": 2,
+    "price": 508,
+    "isSuper": true,
+    "rating": 4.9,
+    "reviews": 102
+  }
+]

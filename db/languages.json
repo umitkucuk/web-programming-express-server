@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Türkçe"
+  },
+  {
+    "id": 2,
+    "name": "English"
+  },
+  {
+    "id": 3,
+    "name": "Français"
+  },
+  {
+    "id": 4,
+    "name": "Deutsch"
+  },
+  {
+    "id": 5,
+    "name": "Italiano"
+  },
+  {
+    "id": 6,
+    "name": "Polski"
+  },
+  {
+    "id": 7,
+    "name": "Svenska"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "city": "Paris",
+    "img": "paris.png",
+    "price": "623"
+  },
+  {
+    "city": "Tokyo",
+    "img": "tokyo.png",
+    "price": "511"
+  },
+  {
+    "city": "Londra",
+    "img": "londra.png",
+    "price": "696"
+  },
+  {
+    "city": "Los Angeles",
+    "img": "los-angeles.png",
+    "price": "764"
+  }
+]
